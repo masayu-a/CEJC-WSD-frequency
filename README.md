@@ -1,4 +1,4 @@
-# 『日本語日常会話コーパス』短単位語彙表（分類語彙表番号つき）(CEJC-WSD-frequency version 2024.03)
+# 『日本語日常会話コーパス』短単位語彙表（分類語彙表番号つき）(CEJC-WSD-frequency version 2024.10)
 
 ## Description
 
@@ -22,8 +22,8 @@
 3. CEJC:age		
 4. CEJC:gender		
 5. UniDic:lForm		語彙素読み(UniDic)
-6. UniDic:lemma		語彙素(UniDic)
-7. UniDic:subLemma	語彙素細分類(UniDic)
+6. UniDic:subLemma	語彙素細分類(UniDic)
+7. UniDic:lemma		語彙素(UniDic)
 8. UniDic:pos		品詞(UniDic)
 9. UniDic:wType		語種(UniDic)
 10. WLSP:article number	分類番号(分類語彙表)
@@ -43,8 +43,8 @@
 4. CEJC:gender		
 5. UniDic:lForm		語彙素読み(UniDic)
 6. UniDic:lemma		語彙素(UniDic)
-7. UniDic:subLemma	語彙素細分類(UniDic)
-8. UniDic:pos		品詞(UniDic)
+7. UniDic:pos		品詞(UniDic)
+8. UniDic:subLemma	語彙素細分類(UniDic)
 9. UniDic:wType		語種(UniDic)
 10. (cejc_lemma_orthBase) UniDic:orthBase 書字形 / (cejc_lemma_form) UniDic:form 語形 / (cejc_lemma_pronToken) UniDic:pronToken 発音形出現形
 11. WLSP:article number	分類番号(分類語彙表)
@@ -69,17 +69,23 @@
 > (2)再配布は不可。商業使用（営利目的での利用）は要相談。 
 > (3)論文等に引用する際は出典とバージョンを明記すること。
 >    以下に，出典とバーションの例を示す。 
->   『日本語日常会話コーパス』短単位語彙表（分類語彙表番号つき） (CEJC-WSD-frequency version 2024.03)
+>   『日本語日常会話コーパス』短単位語彙表（分類語彙表番号つき） (CEJC-WSD-frequency version 2024.10)
 > (4)本データの著作権（編集著作権）は国立国語研究所が有する。
 > (5)データの瑕疵による損害についてはいかなる場合でも保証しない。
 > (6)内容の改善のため予告なく更新することがある。
 
 ## Credit
 
-国立国語研究所 (2024) 『日本語日常会話コーパス』短単位語彙表（分類語彙表番号つき） (CEJC-WSD-frequency version 2024.03)
+国立国語研究所 (2024) 『日本語日常会話コーパス』短単位語彙表（分類語彙表番号つき） (CEJC-WSD-frequency version 2024.10)
 
 本データは、科研費 22K12145 および国立国語研究所共同研究プロジェクト「アノテーションデータを用いた実証的計算心理言語学」によるものです。
 
 ## Contact
 
 kotonoha@ninjal.ac.jp
+
+## History
+
+- (CEJC-WSD-frequency version 2024.03) から (CEJC-WSD-frequency version 2024.03) への変更点
+
+subLemma の列を変更
